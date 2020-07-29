@@ -26,7 +26,7 @@ const AddTransaction = () => {
 
   return (
     <div className="mt-3 med-query">
-      <h3 className="text-muted">Add a Transaction</h3>
+      <h3 className="text-muted">Add Transaction</h3>
       <hr />
       <form onSubmit={handleSubmit}>
         <div className="form-group">
